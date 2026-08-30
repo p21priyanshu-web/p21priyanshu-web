@@ -1,3 +1,7 @@
+<p align="center">
+<img src="assets/banner.png" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Priyanshu Tiwari</h1>
 
 <h3 align="center">

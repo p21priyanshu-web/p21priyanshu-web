@@ -10,9 +10,9 @@
 
 <p align="center">
 
-<a href="https://github.com/p21priyanshu-web">
+<!-- <a href="https://github.com/p21priyanshu-web">
 <img src="https://media.licdn.com/dms/image/v2/D4D03AQFYLoqMyUZQog/profile-displayphoto-scale_200_200/B4DaBAB7JsGkAc-/0/1787780642614?e=1789603200&v=beta&t=mTYbCjCo4UbDaP8-B1unmsHyHvtkBay7lVff9Ou4ors" />
-</a>
+</a> -->
 
 </p>
 
